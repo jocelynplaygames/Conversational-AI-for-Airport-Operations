@@ -137,22 +137,3 @@ The system supports 11 core query types:
 | `/api/health` | GET | Health check |
 | `/api/stats` | GET | Database statistics |
 
-## Team
-
-| Name | Role |
-|------|------|
-| Aurora Ouyang | Tech Lead |
-| Anqi Yu | Developer |
-| Dora Ren | Developer |
-| Yuwei Ma | Developer |
-| Xiaoya Wang | Developer |
-
-## Acknowledgments
-
-- **Port of Seattle** — Project sponsor and data provider
-- **Northeastern University** — Capstone program
-
-## License
-
-- **Code:** MIT License
-- **Data:** Proprietary to Port of Seattle
